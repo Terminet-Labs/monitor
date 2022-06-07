@@ -140,7 +140,7 @@ Validators are penalized.
 
 Node B synchronizes new data, using node A's session key, node A keeps progressing.
 
-###### **<u>操作步骤</u><font color='red'>Steps</font>**
+###### **<font color='red'>Steps</font>**
 
 1、After waiting for the block height of Node B to be consistent with the browser block height, Copy the session key file of node A to node B.
 
